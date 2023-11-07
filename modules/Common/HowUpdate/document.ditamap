@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Инструкция по обновлению</title>
+ <topicmeta>
+  <shortdesc>
+   <unknown>
+    <p>Данный документ является инструкцией по обновлению приложения «Делопроизводство 5» версии 5.5.6 до версии 5.5.7.</p>
+   </unknown>
+  </shortdesc>
+  <prodinfo>
+   <prodname>Docsvision 5. Делопроизводство 5</prodname>
+   <prognum>5.5.7</prognum>
+  </prodinfo>
+  <othermeta name="docver" content="1.0"></othermeta>
+ </topicmeta>
+ <topicref href="topics/conditions.md" format="mdita"></topicref>
+ <topicref href="topics/howupdate.md" format="mdita"></topicref>
+</map>

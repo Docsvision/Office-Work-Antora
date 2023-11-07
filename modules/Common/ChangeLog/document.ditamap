@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Список изменений</title>
+ <topicmeta>
+  <prodinfo>
+   <prodname>Docsvision 5. Делопроизводство 5</prodname>
+   <prognum>5.5.7</prognum>
+  </prodinfo>
+  <othermeta name="docver" content="1.0"></othermeta>
+ </topicmeta>
+ <topicref href="topics/changes.md" format="mdita"></topicref>
+ <topicref href="topics/bugs.md" format="mdita"></topicref>
+</map>
