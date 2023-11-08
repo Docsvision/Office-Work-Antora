@@ -1,0 +1,29 @@
+name: officework
+version: 'dev'
+display_version: 'dev'
+prerelease: true
+title: Делопроизводство 5
+asciidoc:
+  attributes:
+    pl-req: '5.5.5, сборка 7806'
+    bo-req: '5.5.4, сборка 7547 и выше, либо модуль {bo} версии 5.5.5, сборка ниже 5.5.8650'
+    dm-req: '5.5.4, сборка 8381'
+    wf-req: '5.5.3, сборка 7281'
+    ad-req: '5.5.3, сборка 7344'
+    to-req: '5.5.2 сборка 7231'
+    win-req: '5.5.4 сборка 7335'
+    wc-req: '5.5.5957.431 для Web-клиент 16 и 5.5.6478.105 для Web-клиент 17'
+    wc-req-m4d: '17, сборка 4190'
+    edi-req: '5.5.5'
+    edi-req-m4d: '5.5.5, сборка 4190'
+    of-em: 'Модуля интеграции с операторами ЭДО'
+    bo-req-m4d: '5.5.5, сборка 8670'
+
+nav:
+- modules/ROOT/nav.adoc
+- modules/common/common.adoc
+- modules/admin/admin.adoc
+- modules/user/user.adoc
+#- modules/sbis/sbis.adoc
+
+#  start_page: ROOT:index.adoc

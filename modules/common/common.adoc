@@ -1,0 +1,8 @@
+= Список изменений
+
+* xref:changes.adoc[Изменения]
+* xref:bugs.adoc[Исправленные ошибки]
+* xref:conditions.adoc[Условия обновления]
+* xref:howupdate.adoc[Порядок обновления]
+* xref:Restrictions.adoc[Ограничения по модификации Приложения]
+* xref:Recommendations.adoc[Рекомендации по внесению изменений в Приложение]

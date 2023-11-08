@@ -1,0 +1,37 @@
+= Индикаторы состояния узла дерева резолюций
+
+Отслеживать текущее состояние узлов в дереве резолюций можно непосредственно из карточки, при помощи элемента разметки Дерево резолюций.
+
+Для просмотра дерева резолюций выполните следующие действия:
+
+[arabic]
+. Откройте карточку Резолюция.
+. Перейдите на вкладку Исполнение.
++
+Каждая запись содержит название карточки, текущее состояние карточки и соответствующую иконку, а также имена исполнителей.
+* *Задание*.
+** Подготовка (image:buttons/bullet_ball_glass_blanch.png[image]) – задание не запущено;
+** На исполнении (image:buttons/bullet_ball_glass_green_arrow.png[image]) – задание запущено, не взято в работу ни одним из исполнителей;
+** Отклонено (image:buttons/bullet_ball_glass_red_arrow.png[image]) – задание отклонено исполнителем;
+** Отложено (image:buttons/bullet_ball_glass_green_arrow.png[image]) – исполнитель отложил работу над заданием;
+** Отозвано (image:buttons/bullet_ball_glass_blanch.png[image]) – задание отозвано Автором или Контролером;
+** В работе (image:buttons/bullet_ball_glass_green_arrow.png[image]) – Задание в работе у Исполнителя;
+** Делегировано (image:buttons/bullet_ball_glass_green_arrow.png[image]) – Задание делегировано Исполнителем другому сотруднику;
+** Возврат с делегирования (image:buttons/bullet_ball_glass_green_arrow.png[image]) – Делегат закончил работу с заданием, задание возвращено начальному исполнителю;
+** На приемке (image:buttons/bullet_ball_glass_yellow_flag.png[image]) – Завершенное Исполнителем задание находится у Контролера на приёмке;
+** На доработке (image:buttons/bullet_ball_glass_green_arrow.png[image]) – Контролер вернул задание на доработку Исполнителю после приемки;
+** Завершено (image:buttons/bullet_ball_glass_black.png[image]) – Исполнитель завершил работу над заданием.
+* *Пункт резолюции*.
+** Подготовка (image:buttons/bullet_ball_glass_blanch.png[image]) – задания пункта не отправлены;
+** На исполнении (image:buttons/bullet_ball_glass_green_arrow.png[image]) – задания пункта отправлены и находятся на исполнении;
+** Отозван (image:buttons/bullet_ball_glass_blanch.png[image]) – задания пункта отозваны;
+** Завершен (image:buttons/bullet_ball_glass_black.png[image]) – работа по пункту завершена.
+* *Резолюция*.
+** Подготавливается (image:buttons/bullet_ball_glass_blanch.png[image]) – резолюция подготавливается;
+** На доработке (image:buttons/bullet_ball_glass_blanch.png[image]) – резолюция отправлена на утверждение;
+** На утверждении (image:buttons/bullet_ball_glass_blanch.png[image]) – задания резолюции отправлены и находятся на исполнении;
+** На исполнении (image:buttons/bullet_ball_glass_green_arrow.png[image]) – задания резолюции отправлены и находятся на исполнении;
+** Отзывается (image:buttons/bullet_ball_glass_blanch.png[image]) – задания резолюции отзываются;
+** Отозвано (image:buttons/bullet_ball_glass_blanch.png[image]) – задания резолюции отозваны;
+** Завершается (image:buttons/bullet_ball_glass_black.png[image]) – работа по резолюции завершается;
+** Завершено (image:buttons/bullet_ball_glass_black.png[image]) – работа по резолюции завершена.
