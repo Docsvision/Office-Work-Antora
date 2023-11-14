@@ -1,0 +1,18 @@
+.xref:index.adoc[{ow}]
+* xref:index.adoc[]
+** xref:office-work-document-management.adoc[]
+** xref:module-structure.adoc[]
+*** xref:card-kinds.adoc[]
+*** xref:roles.adoc[]
+*** xref:folders.adoc[]
+**** xref:folders-documents.adoc[]
+**** xref:folders-reports.adoc[]
+**** xref:folders-resolution.adoc[]
+**** xref:folders-routing.adoc[]
+**** xref:folders-official.adoc[]
+*** xref:groups.adoc[]
+*** xref:business-processes.adoc[]
+** xref:user-level.adoc[]
+
+* Требования
+** xref:requirements.adoc[]
