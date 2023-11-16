@@ -15,7 +15,7 @@ ____
 . Откройте карточку Резолюция.
 . Перейдите к элементу "Выберите исполнителя".
 +
-image::TaskCard_performer.png[Выберите исполнителя,title="Выберите исполнителя"]
+image::TaskCard_performer.png[Выберите исполнителя]
 . Выберите исполнителя одним из доступных способов:
 * xref:Task_performer_select_from_guide.adoc[из Справочника сотрудников];
 * xref:Task_performer_select_from_list.adoc[из заранее сформированного списка];

@@ -1,5 +1,7 @@
 .xref:index.adoc[{ow}]
 * xref:index.adoc[]
+** xref:restrictions.adoc[]
+** xref:recommendations.adoc[]
 ** xref:office-work-document-management.adoc[]
 ** xref:module-structure.adoc[]
 *** xref:card-kinds.adoc[]
